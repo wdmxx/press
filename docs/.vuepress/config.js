@@ -10,16 +10,12 @@ module.exports = {
 		],
 
 		sidebar: [
-			
-				'/sql/': [
-				title: 'sql大标题',
-				children:[
 					'/sql/sql.start',
 					'/sql/sql.use'
-					]
+
 			
 				]		
 
-		],		
+		},		
 	
 }
