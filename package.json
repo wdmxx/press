@@ -1,0 +1,14 @@
+{
+  "name": "wdm_vue",
+  "version": "1.0.0",
+  "description": "wdm",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "wdm",
+  "license": "ISC"
+}
