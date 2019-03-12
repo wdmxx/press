@@ -5,7 +5,7 @@ module.exports = {
 	themeConfig:{
 		nav: [
 			{ text: 'HOME', link: '/'},
-			{ test: '乱七八糟碎片',link: '/tips/'},
+			{ text: '碎片片', link: '/tips/'},
 			{ text: '机器学习', link: '/machine_learning/'},
 			{ text: 'SQL', link:'/sql/'},
 			{ text: 'Python', link:'/python/'}
@@ -24,9 +24,7 @@ module.exports = {
 						
 					]
 				}
-			],
-			'/tips/':
-			['/tips/显示目录结构']
+			]
 		}
 					
 
